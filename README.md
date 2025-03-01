@@ -1,4 +1,4 @@
-# MarTo.demo
+# NLPScreenplays.demo
 
 Based on a tool developed as part of my PhD research.  
 
